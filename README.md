@@ -1,6 +1,6 @@
 # Util 常用工具类
 
- [![](https://jitpack.io/v/dongdaniqng/Util.svg)](https://jitpack.io/#dongdaniqng/Util)
+[![](https://www.jitpack.io/v/dongdaniqng/utillib.svg)](https://www.jitpack.io/#dongdaniqng/utillib)
 
 * SPUtil:更方便的存储sharedperference
 * Any.log():使用扩展方法给所有类添加扩展日志
@@ -23,7 +23,7 @@ allprojects {
 ## 2.在次级build.gradle添加,点击sync,等待同步完成
 
 ```
-implementation 'com.github.dongdaniqng:Util:1.0.3'
+implementation 'com.github.dongdaniqng:utillib:0.0.1'
 ```
 
 

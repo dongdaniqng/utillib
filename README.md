@@ -119,7 +119,3 @@ info?.log2("new_tag", E)
   ## 4.新增一些扩展类，方便实用具体参考ViewUtil.kt,SystemServiceUtil,持续完善中...
 
   
-
-  # 最后,如果好用,欢迎star
-
-  

@@ -1,7 +1,5 @@
 # Util 常用工具类
-
 [![](https://www.jitpack.io/v/dongdaniqng/utillib.svg)](https://www.jitpack.io/#dongdaniqng/utillib)
-
 * SPUtil:更方便的存储sharedperference
 * Any.log():使用扩展方法给所有类添加扩展日志
 * SingleClickUtil:代理系统的View.onClickListener,防止应用重复点击

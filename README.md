@@ -24,7 +24,11 @@ allprojects {
 implementation 'com.github.dongdaniqng:utillib:0.0.1'
 ```
 
+## 3.在application中初始化
 
+```
+UtilInit.init(this)
+```
 
 ## 使用:
 
